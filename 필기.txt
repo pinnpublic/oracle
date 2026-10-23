@@ -1,0 +1,97 @@
+C:\code\oracle 폴더 생성
+
+1. Oracle
+  - "oracle 21c xe download"
+  - Oracle Database 21c Express Edition for Windows (64-bit)
+
+2. SQL Developer, DBeaver, DataGrip
+  - sqldeveloper-26.2.0.186.2220-x64.zip
+
+3. eXERD
+
+
+
+
+
+
+
+
+Win+R > "services.msc"
+
+- Oracle DB 
+- SQL Developer > Oracle/MySQL 접속
+
+DBeaver > 모든 종류 DB 접속
+DataGrip > 모든 종류 DB 접속
+
+
+
+
+절대 IP 주소
+- 192.168.10.30
+- 홍길동
+
+상대 IP 주소
+- 나
+- 127.0.0.1(ping test) = localhost
+
+
+
+
+
+
+oracle 9i
+oracle 11g
+----------
+oracle 18c
+oracle 21c
+
+
+
+
+오라클 > 학습
+- 학습용/테스트용 계정 제공
+- scott, hr > 스키마(유저)
+- 학습용/테스트용 데이터 제공(테이블)
+
+
+C:\app\in\product\21c\dbhomeXE\demo\schema\human_resources\파일들
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
